@@ -1,1 +1,2 @@
-/home/andrey/dev/sqreen/sqreen-agent/src/main/java/a/m/a/valve/AddHeaderValve.java
+/home/andrey/dev/sqreen-test/sqreen-agent/src/main/java/a/m/a/sqreen/SqreenAgent.java
+/home/andrey/dev/sqreen-test/sqreen-agent/src/main/java/a/m/a/sqreen/CoyoteAdapterTransformer.java

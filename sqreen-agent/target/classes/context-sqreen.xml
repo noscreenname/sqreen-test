@@ -1,9 +1,0 @@
-<Server port="8005" shutdown="SHUTDOWN">
-    <Service name="Catalina">
-        <Engine name="Catalina" defaultHost="localhost">
-            <Host name="localhost" appBase="webapps" unpackWARs="true" autoDeploy="true">
-                <Valve className="a.m.a.valve.AddHeaderValve"/>
-            </Host>
-        </Engine>
-    </Service>
-</Server>
