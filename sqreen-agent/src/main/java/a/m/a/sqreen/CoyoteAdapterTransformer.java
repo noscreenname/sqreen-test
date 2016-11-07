@@ -20,10 +20,8 @@ final class CoyoteAdapterTransformer implements ClassFileTransformer {
                 m.insertBefore("$2.addHeader(\"X-Instrumented-By\", \"sqreen\");");
                 byteCode = cc.toBytecode();
                 cc.detach();
-            } catch (Exception ex) {
-                System.out.println("### Ooops there seems to be a fuckup " + ex);
-                ex.printStackTrace();
-                throw new RuntimeException("MAJOR SCREW UP");
+            } catch (Exception e) {
+                throw new RuntimeException("Failed to instrument tomcat", e);
             }
         }
 
