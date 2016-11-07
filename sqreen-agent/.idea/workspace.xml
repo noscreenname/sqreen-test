@@ -35,11 +35,9 @@
       <file leaf-file-name="CoyoteAdapterTransformer.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/a/m/a/sqreen/CoyoteAdapterTransformer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="13" column="73" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="73" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="54">
+              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -679,11 +677,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/a/m/a/sqreen/CoyoteAdapterTransformer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="13" column="73" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="73" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="54">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
